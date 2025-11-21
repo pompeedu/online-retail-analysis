@@ -1,6 +1,6 @@
 🌍 Языки:
-- 🇬🇧 Русский
-- 🇷🇺 [English version](README.md)
+- 🇷🇺 Русский
+- 🇬🇧 [English version](README.md)
 
 # 📊 Анализ Онлайн-Ритейла
 Этот проект представляет исследовательский анализ данных (EDA) на основе датасета Online Retail с использованием Python, Pandas и Matplotlib.
@@ -60,5 +60,6 @@ Online_Retail.csv — реальный набор транзакционных �
 
 ## 🧠 Автор
 Фирузджон Курбанов — начинающий Data Scientist
-📫 Контакты: [Telegram/@pompeedu](https://t.me/pompeedu) 
-или [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
+###📫 Контакты: 
+- [Telegram/@pompeedu](https://t.me/pompeedu) 
+- [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
