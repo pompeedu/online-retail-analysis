@@ -1,3 +1,7 @@
+# 🌍 Languages:
+- 🇬🇧 English (current)
+- 🇷🇺 [Русская версия](README_RU.md)
+
 # 📊 Online Retail Analysis Project  
 This project presents an exploratory data analysis (EDA) of the **Online Retail** dataset using Python, Pandas, and Matplotlib.  
 It demonstrates skills in data cleaning, business analytics, visualization, and working with real-world e-commerce data.
@@ -46,7 +50,7 @@ It demonstrates skills in data cleaning, business analytics, visualization, and 
 ## 🚀 How to Run
 
 1. Clone the repository:
-  git clone https://github.com/firuzjonq/online-retail-analysis.git
+  git clone https://github.com/pompeedu/online-retail-analysis.git
 2. Install dependencies:
   pip install pandas matplotlib
 3. Place Online_Retail.csv in the project folder
