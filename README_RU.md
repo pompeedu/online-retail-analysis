@@ -60,6 +60,7 @@ Online_Retail.csv — реальный набор транзакционных �
 
 ## 🧠 Автор
 Фирузджон Курбанов — начинающий Data Scientist
-###📫 Контакты: 
+
+### 📫 Контакты: 
 - [Telegram/@pompeedu](https://t.me/pompeedu) 
 - [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
