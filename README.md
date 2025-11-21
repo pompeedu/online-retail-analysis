@@ -1,6 +1,6 @@
 # 🌍 Languages:
 - 🇬🇧 English (current)
-- 🇷🇺 [Русская версия](README_RU.md)
+- 🇷🇺 [Русская версия](russian_version/README_RU.md)
 
 # 📊 Online Retail Analysis Project  
 This project presents an exploratory data analysis (EDA) of the **Online Retail** dataset using Python, Pandas, and Matplotlib.  
@@ -58,4 +58,7 @@ It demonstrates skills in data cleaning, business analytics, visualization, and 
 
 ## 🧠 Author
 Firuzjon Qurbonov – Aspiring Data Scientist from Russia  
-📫 Contact: [Telegram/@pompeedu](https://t.me/pompeedu) or [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
+
+### 📫 Contact: 
+- [Telegram/@pompeedu](https://t.me/pompeedu)
+- [firuzjonkurbonov735700@gmail.com](mailto:firuzjonkurbonov735700@gmail.com)
