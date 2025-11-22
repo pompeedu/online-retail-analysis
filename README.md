@@ -56,8 +56,11 @@ It demonstrates skills in data cleaning, business analytics, visualization, and 
 3. Place Online_Retail.csv in the project folder
 4. Run the Python script or Jupyter notebook
 
-## 🧠 Author
-Firuzjon Qurbonov – Aspiring Data Scientist from Russia  
+#### 👆 Or click on this [LINK](online_retail_analysis.ipynb) for preview in Jupyter notebook.
+#### 📁 To open the graphs folder [CLICK](graphs).
+
+## 👨‍💻 Author
+#### *Firuzjon Qurbonov – Aspiring Data Scientist focused on analytics, dashboards, and real-world business insights.*
 
 ### 📫 Contact: 
 - [Telegram/@pompeedu](https://t.me/pompeedu)
