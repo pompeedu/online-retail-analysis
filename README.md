@@ -59,6 +59,12 @@ It demonstrates skills in data cleaning, business analytics, visualization, and 
 #### 👆 Or click on this [LINK](online_retail_analysis.ipynb) for preview in Jupyter notebook.
 #### 📁 To open the graphs folder [CLICK](graphs).
 
+## 📈 Some graphs
+
+<img src='graphs\average_check.png'/> 
+<img src='graphs\revenue_dynamics.png'/> 
+<img src='graphs\top_10_clients.png'/> 
+
 ## 👨‍💻 Author
 #### *Firuzjon Qurbonov – Aspiring Data Scientist focused on analytics, dashboards, and real-world business insights.*
 
